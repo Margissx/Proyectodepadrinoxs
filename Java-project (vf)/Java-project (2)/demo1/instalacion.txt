@@ -1,0 +1,5 @@
+1 paso, instalar IDEA jetbrain
+2 paso, instalar JDK version 11
+3 paso, descargar de ser necesario el driver mysql
+4 paso, ejecutar el archivo dentro de /src/main/java/com.example.demo1/MainApp.java
+
